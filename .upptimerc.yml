@@ -15,7 +15,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /goorm-status
   logoUrl: https://statics.goorm.io/logo/goorm.svg
-  name: goorm
+  name: ""
   introTitle: ""
   introMessage: ""
   navbar:
