@@ -22,7 +22,7 @@
     "url": "https://ide.goorm.io",
     "icon": "https://favicons.githubusercontent.com/ide.goorm.io",
     "slug": "goorm-ide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1210,
     "timeMonth": 1210,
     "timeYear": 1210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-17": 0
+    }
   }
 ]
