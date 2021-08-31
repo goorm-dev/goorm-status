@@ -4,7 +4,7 @@
     "url": "https://edu.goorm.io",
     "icon": "https://favicons.githubusercontent.com/edu.goorm.io",
     "slug": "goorm-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2037,
     "timeMonth": 2082,
     "timeYear": 1873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-31": 0
+    }
   },
   {
     "name": "goormIDE",
