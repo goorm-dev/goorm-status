@@ -4,19 +4,19 @@
     "url": "https://edu.goorm.io",
     "icon": "https://favicons.githubusercontent.com/edu.goorm.io",
     "slug": "goorm-edu",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1873,
-    "timeDay": 1871,
-    "timeWeek": 2037,
-    "timeMonth": 2082,
-    "timeYear": 1873,
+    "time": 1874,
+    "timeDay": 1961,
+    "timeWeek": 2039,
+    "timeMonth": 2081,
+    "timeYear": 1874,
     "dailyMinutesDown": {
-      "2021-08-31": 0
+      "2021-08-31": 11
     }
   },
   {
