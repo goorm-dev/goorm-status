@@ -10,11 +10,11 @@
     "uptimeWeek": "96.90%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.64%",
-    "time": 2261,
-    "timeDay": 2143,
-    "timeWeek": 2259,
-    "timeMonth": 2472,
-    "timeYear": 2386,
+    "time": 2263,
+    "timeDay": 2301,
+    "timeWeek": 2283,
+    "timeMonth": 2439,
+    "timeYear": 2387,
     "dailyMinutesDown": {
       "2022-09-20": 12,
       "2022-09-19": 301,
@@ -24,8 +24,7 @@
       "2022-04-16": 146,
       "2022-04-10": 40,
       "2022-04-09": 149,
-      "2021-09-25": 994,
-      "2021-09-24": 143
+      "2021-09-25": 994
     }
   },
   {
@@ -34,18 +33,19 @@
     "icon": "https://favicons.githubusercontent.com/ide.goorm.io",
     "slug": "goorm-ide",
     "status": "down",
-    "uptime": "95.15%",
-    "uptimeDay": "1.46%",
+    "uptime": "95.01%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.21%",
-    "uptimeMonth": "5.47%",
-    "uptimeYear": "91.38%",
+    "uptimeMonth": "2.18%",
+    "uptimeYear": "91.11%",
     "time": 1137,
-    "timeDay": 829,
-    "timeWeek": 769,
-    "timeMonth": 1543,
+    "timeDay": 1025,
+    "timeWeek": 805,
+    "timeMonth": 1536,
     "timeYear": 1158,
     "dailyMinutesDown": {
-      "2022-09-23": 3,
+      "2022-09-24": 4,
+      "2022-09-23": 1440,
       "2022-09-22": 1419,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
@@ -82,8 +82,7 @@
       "2022-03-13": 1440,
       "2022-03-12": 1230,
       "2021-11-05": 24,
-      "2021-09-25": 994,
-      "2021-09-24": 143
+      "2021-09-25": 994
     }
   }
 ]
