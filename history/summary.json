@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 2203,
-    "timeDay": 2427,
-    "timeWeek": 2172,
-    "timeMonth": 2166,
-    "timeYear": 2149,
+    "time": 2202,
+    "timeDay": 1685,
+    "timeWeek": 2018,
+    "timeMonth": 2139,
+    "timeYear": 2148,
     "dailyMinutesDown": {
       "2023-06-15": 318,
       "2023-06-14": 1440,
@@ -25,8 +25,7 @@
       "2022-11-10": 13,
       "2022-11-09": 2,
       "2022-09-20": 12,
-      "2022-09-19": 301,
-      "2022-08-26": 38
+      "2022-09-19": 301
     }
   },
   {
@@ -35,18 +34,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ide.goorm.io.ico",
     "slug": "goorm-ide",
     "status": "down",
-    "uptime": "63.26%",
+    "uptime": "63.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.57%",
-    "time": 892,
-    "timeDay": 675,
-    "timeWeek": 667,
-    "timeMonth": 640,
-    "timeYear": 760,
+    "uptimeYear": "1.48%",
+    "time": 891,
+    "timeDay": 458,
+    "timeWeek": 650,
+    "timeMonth": 636,
+    "timeYear": 730,
     "dailyMinutesDown": {
-      "2023-08-25": 2,
+      "2023-08-26": 2,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -405,8 +405,7 @@
       "2022-08-30": 1440,
       "2022-08-29": 1327,
       "2022-08-28": 1440,
-      "2022-08-27": 1440,
-      "2022-08-26": 1440
+      "2022-08-27": 1440
     }
   }
 ]
