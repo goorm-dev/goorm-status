@@ -6,17 +6,18 @@
     "slug": "goorm-edu",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.12%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.11%",
     "time": 2197,
     "timeDay": 1748,
     "timeWeek": 1645,
     "timeMonth": 2179,
     "timeYear": 2137,
     "dailyMinutesDown": {
-      "2023-11-03": 32,
+      "2023-11-04": 2,
+      "2023-11-03": 38,
       "2023-11-02": 47,
       "2023-09-21": 19,
       "2023-06-15": 318,
@@ -35,7 +36,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ide.goorm.io.ico",
     "slug": "goorm-ide",
     "status": "down",
-    "uptime": "59.02%",
+    "uptime": "59.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.55%",
     "uptimeMonth": "0.00%",
@@ -46,7 +47,8 @@
     "timeMonth": 701,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2023-11-03": 1434,
+      "2023-11-04": 2,
+      "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1390,
       "2023-10-31": 1440,
@@ -405,8 +407,7 @@
       "2022-11-08": 1395,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
-      "2022-11-05": 1440,
-      "2022-11-04": 1440
+      "2022-11-05": 1440
     }
   }
 ]
