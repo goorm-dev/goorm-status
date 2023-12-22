@@ -1,7 +1,7 @@
 url: https://edu.goorm.io
-status: up
-code: 200
-responseTime: 3124
-lastUpdated: 2023-12-22T00:31:37.583Z
+status: down
+code: 403
+responseTime: 661
+lastUpdated: 2023-12-22T03:36:13.409Z
 startTime: 2020-12-12T06:03:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
