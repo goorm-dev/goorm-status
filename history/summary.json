@@ -4,15 +4,15 @@
     "url": "https://edu.goorm.io",
     "icon": "https://icons.duckduckgo.com/ip3/edu.goorm.io.ico",
     "slug": "goorm-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "94.88%",
-    "uptimeWeek": "95.26%",
+    "uptimeWeek": "95.42%",
     "uptimeMonth": "95.64%",
     "uptimeYear": "99.58%",
     "time": 1552,
     "timeDay": 1417,
-    "timeWeek": 1434,
+    "timeWeek": 1432,
     "timeMonth": 1451,
     "timeYear": 1534,
     "dailyMinutesDown": {
@@ -51,8 +51,7 @@
       "2023-12-20": 76,
       "2023-12-19": 86,
       "2023-12-18": 65,
-      "2023-12-17": 15,
-      "2023-12-16": 17
+      "2023-12-17": 15
     }
   },
   {
@@ -72,7 +71,7 @@
     "timeMonth": 714,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-01-22": 36,
+      "2024-01-22": 163,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
