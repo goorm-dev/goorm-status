@@ -1,7 +1,7 @@
 url: https://ide.goorm.io
-status: up
-code: 200
-responseTime: 1282
-lastUpdated: 2024-02-14T09:58:52.223Z
+status: down
+code: 403
+responseTime: 457
+lastUpdated: 2024-02-14T10:06:36.702Z
 startTime: 2020-12-12T06:03:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
