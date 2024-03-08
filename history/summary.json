@@ -58,23 +58,23 @@
     "url": "https://ide.goorm.io",
     "icon": "https://icons.duckduckgo.com/ip3/ide.goorm.io.ico",
     "slug": "goorm-ide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "21.98%",
-    "uptimeWeek": "54.44%",
-    "uptimeMonth": "89.52%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "22.35%",
+    "uptimeWeek": "54.94%",
+    "uptimeMonth": "89.63%",
+    "uptimeYear": "99.14%",
     "time": 883,
-    "timeDay": 955,
-    "timeWeek": 949,
-    "timeMonth": 941,
+    "timeDay": 940,
+    "timeWeek": 948,
+    "timeMonth": 940,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2024-03-08": 1056,
       "2024-03-07": 1072,
       "2024-03-06": 872,
       "2024-03-05": 1078,
-      "2024-03-04": 521
+      "2024-03-04": 470
     }
   }
 ]
