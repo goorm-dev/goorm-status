@@ -6,7 +6,7 @@
     "slug": "goorm-edu",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "99.01%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.58%",
@@ -62,9 +62,9 @@
     "slug": "goorm-ide",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "33.49%",
-    "uptimeWeek": "60.91%",
-    "uptimeMonth": "91.01%",
+    "uptimeDay": "34.12%",
+    "uptimeWeek": "60.79%",
+    "uptimeMonth": "90.98%",
     "uptimeYear": "99.25%",
     "time": 885,
     "timeDay": 936,
@@ -72,10 +72,10 @@
     "timeMonth": 941,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2024-03-09": 959,
+      "2024-03-09": 953,
       "2024-03-08": 1118,
       "2024-03-07": 1072,
-      "2024-03-06": 797
+      "2024-03-06": 816
     }
   }
 ]
