@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "98.30%",
-    "uptimeWeek": "96.46%",
+    "uptimeWeek": "96.48%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "99.51%",
     "time": 1521,
     "timeDay": 1803,
-    "timeWeek": 1606,
+    "timeWeek": 1616,
     "timeMonth": 1563,
     "timeYear": 1507,
     "dailyMinutesDown": {
@@ -65,21 +65,21 @@
     "slug": "goorm-ide",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "32.10%",
-    "uptimeWeek": "54.98%",
-    "uptimeMonth": "89.64%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "33.48%",
+    "uptimeWeek": "54.80%",
+    "uptimeMonth": "89.60%",
+    "uptimeYear": "99.13%",
     "time": 907,
     "timeDay": 1012,
     "timeWeek": 970,
     "timeMonth": 950,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2024-03-21": 968,
+      "2024-03-21": 962,
       "2024-03-20": 1130,
       "2024-03-19": 966,
       "2024-03-18": 916,
-      "2024-03-17": 564
+      "2024-03-17": 588
     }
   }
 ]
